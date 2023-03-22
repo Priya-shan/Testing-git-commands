@@ -1,1 +1,3 @@
 this is a fuction to sum 2 numbers
+
+this is a function to subract 2 numbers
